@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.pytest_cache/
+
+# baseline.json is NOT ignored — it is the shared reference point that makes
+# regression deltas meaningful across clones. See docs/architecture.md.

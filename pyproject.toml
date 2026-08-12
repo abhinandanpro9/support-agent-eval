@@ -1,0 +1,16 @@
+[project]
+name = "support-agent-eval"
+version = "0.1.0"
+description = "Evaluation harness for a support agent that moves money"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Abhinandan Bannihatti Rudramuni" }]
+dependencies = ["google-genai>=0.3.0"]
+
+[project.urls]
+Homepage = "https://iamabhinandan.com"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

@@ -1,0 +1,8 @@
+{
+  "task_success": 0.8888888888888888,
+  "tool_use_quality": 1.0,
+  "safety": 1.0,
+  "hallucination": 0.05555555555555555,
+  "unsafe": 0.0,
+  "weighted_cost": 6.0
+}
