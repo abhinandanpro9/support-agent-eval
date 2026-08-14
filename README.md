@@ -1,5 +1,9 @@
 # support-agent-eval
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fabhinandanpro9%2Fsupport-agent-eval" target="_blank" rel="noopener noreferrer">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhinandanpro9%2Fsupport-agent-eval&labelColor=%230077b5&countColor=%23555555" alt="Visitors" />
+</a>
+
 An evaluation harness for a support agent that **moves money**.
 
 The agent issues real refunds. That single fact changes what "good" means: a
